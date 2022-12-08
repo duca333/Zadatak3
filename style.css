@@ -10,6 +10,8 @@ body {
 .header {
     text-align: center;
     color: white;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 .forma {
@@ -34,7 +36,55 @@ input,label {
     padding-top: 1rem;
 }
 
-.opis {
-    
+.pol {
+    margin-left: 2rem;
 }
 
+.textar {
+    margin-left: 2rem;
+}
+
+.opis {
+    width: 100rem;
+    height: 10rem;
+}
+
+.pol1 {
+    margin-left: -0.1rem;
+}
+
+.opis1 {
+    margin-left: -0.1rem;
+}
+
+.cb {
+    height: auto;
+    width: auto;
+}
+
+label {
+    color: white;
+}
+
+.btn {
+    padding-bottom: 3rem;
+    margin: auto;
+}
+
+.send {
+    width: 6rem;
+    height: 2.5rem;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    border: none;
+    margin-left: 45%;
+}
+
+span {
+    color: white;
+    position: absolute;
+    margin-top: -1.93rem;
+    margin-left: 3.5rem;
+}
