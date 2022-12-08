@@ -2,3 +2,39 @@
     padding: 0;
     margin: 0;
 }
+
+body {
+    background-color: blue;
+}
+
+.header {
+    text-align: center;
+    color: white;
+}
+
+.forma {
+    background-color: lightblue;
+    width: 105rem;
+    margin: auto;
+}
+
+input {
+    width: 100rem;
+    height: 2rem;
+    margin-bottom: 1rem;
+}
+
+input,label {
+    display: block;
+    margin-left: 2rem;
+}
+
+
+.ime1 {
+    padding-top: 1rem;
+}
+
+.opis {
+    
+}
+
